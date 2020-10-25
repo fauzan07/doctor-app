@@ -2,7 +2,7 @@ This Project is build for doctors, which allow there patient to book an appointm
 <img src="./src/assets/screenshort.png" alt="screen-img">
 
 Once the patient make an appointment than doctor will recived an email notifications.
-<img src="./src/assert/email-screenshort.png" alt="email-img">
+<img src="./src/assets/email-screenshort.png" alt="email-img">
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
